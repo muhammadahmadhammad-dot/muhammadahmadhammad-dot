@@ -3,7 +3,7 @@
 ### Full Stack Web Developer | Laravel & MERN Stack
 
 I'm a Computer Science graduate passionate about building scalable, user-focused web applications. My primary expertise is in **Laravel**, with additional experience in the **MERN Stack**. I enjoy developing business management systems, REST APIs, and responsive web applications while continuously learning modern software engineering practices.
-
+Most of my recent work is in private repositories. Active Git-based development is part of my daily workflow.
 ---
 
 ## 🚀 Tech Stack
