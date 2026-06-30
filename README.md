@@ -45,7 +45,7 @@ I'm a Computer Science graduate passionate about building scalable, user-focused
 
 ## 💼 Featured Projects
 
-### ✈️ Airport, Cargo & Mall Management System
+### ✈️ Airport, Cargo & Mall Management System (FYP)
 
 A Laravel-based management system featuring flight scheduling, ticket booking, cargo tracking, role-based access control, and dashboards.
 
