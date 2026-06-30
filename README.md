@@ -81,9 +81,9 @@ A full-stack MERN application with role-based dashboards, course management, job
 
 ## 📫 Connect With Me
 
-* LinkedIn: *(Add your LinkedIn URL)*
-* GitHub: *(Add your GitHub URL)*
-* Email: *(Add your email)*
+* LinkedIn: *https://www.linkedin.com/in/muhammad-ahmad-hammad/*
+* GitHub: *https://github.com/muhammadahmadhammad-dot*
+* Email: *muhammadahmadhere1@gmail.com*
 
 ---
 
