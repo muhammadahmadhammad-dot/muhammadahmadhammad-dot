@@ -69,9 +69,16 @@ A full-stack MERN application with role-based dashboards, course management, job
 
 ---
 
+### 🧾 Invoice Automate Reader
+
+An AI-powered Laravel application that automates invoice processing from multiple sources, including manual entry, PDF/image uploads, and WhatsApp. The system extracts invoice data using OCR, structures it with Google Gemini AI, stores it in the database, updates stock automatically, and sends confirmation messages via WhatsApp using Twilio.
+
+**Tech:** Laravel, PHP, MySQL, OCR.Space API, Google Gemini AI, Twilio WhatsApp API
+---
+
 ## 🌱 Currently Learning
 
-* Advanced Laravel
+* AI & RAG
 * Software Architecture
 * System Design Fundamentals
 * Docker & CI/CD
