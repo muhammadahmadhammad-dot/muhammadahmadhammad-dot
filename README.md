@@ -41,6 +41,15 @@ I'm a Computer Science graduate passionate about building scalable, user-focused
 * Postman
 * VS Code
 
+### Integrations & APIs
+
+* Google Gemini AI
+* OCR.Space API
+* Stripe
+* OAuth 2.0
+* Twilio WhatsApp API
+
+
 ---
 
 ## 💼 Featured Projects
@@ -74,6 +83,7 @@ A full-stack MERN application with role-based dashboards, course management, job
 An AI-powered Laravel application that automates invoice processing from multiple sources, including manual entry, PDF/image uploads, and WhatsApp. The system extracts invoice data using OCR, structures it with Google Gemini AI, stores it in the database, updates stock automatically, and sends confirmation messages via WhatsApp using Twilio.
 
 **Tech:** Laravel, PHP, MySQL, OCR.Space API, Google Gemini AI, Twilio WhatsApp API
+
 ---
 
 ## 🌱 Currently Learning
